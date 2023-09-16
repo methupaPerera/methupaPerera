@@ -12,18 +12,16 @@
 </p>
 
 <h3 align="center">Interested in,</h3>
-
 <div align="center">
   <div>💥 Creating eye-catching user interfaces.</div>
   <div>💥 Quantum Physics.</div>
 </div>
 
 <h3 align="center">How to reach me?</h3>
-
 <div align="center">
-<a href="https://t.me/methupaPerera">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/1e1d0b0e-e2da-443e-b943-35b2ee1b6b2b" alt="Telegram" width="50">
-</a>
+  <a href="https://t.me/methupaPerera" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="methupapera" width="50" />
+  </a>
 </div>
 
 <br>
@@ -47,7 +45,9 @@
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/5b53e899-0d12-42b6-a9e9-8d7d58e700bd" width="50" />
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/78c88ee5-6373-4b63-950f-8a2149ac75ea" width="50" />
 </div>
+
 <br><br>
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methupaPerera&layout=donut)
