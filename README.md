@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  I am a Full Stack Developer based in Sri Lanka,passionate about creating captivating user experiences. With the knwoledge in front-end and back-end technologies, I bring websites   to life with seamless interactions.
+  I am a Full Stack Developer based in Sri Lanka, passionate about creating captivating user experiences. With the knwoledge in front-end and back-end technologies, I bring websites   to life with seamless interactions.
 </p>
 
 <h3 align="center">Interested in,</h3>
