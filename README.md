@@ -42,6 +42,7 @@
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/5a573fcd-7f7d-453c-8b10-bfb8d3c6647d" width="50" />
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/205cd49d-b61f-4a6b-8dd0-3a09f877eb86" width="50" />
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/47b948c8-8446-42ca-af9c-0ad83f6ed88d" width="50" />
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/30cb1f62-a6da-4c0a-9e12-5c78bec48a33" width="50" />
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/a5500617-ea02-40a2-bb18-389b268aecc1" width="50" />
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/5b53e899-0d12-42b6-a9e9-8d7d58e700bd" width="50" />
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/78c88ee5-6373-4b63-950f-8a2149ac75ea" width="50" />
@@ -52,5 +53,5 @@
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methupaPerera&layout=donut)
-  
+
 </div>
