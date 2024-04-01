@@ -10,9 +10,8 @@
 [![Check out my Repositories](https://img.shields.io/badge/See%20All%20Repos-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/methupaPerera?tab=repositories)
 
 <ul>
-  <li>💻 Front-end developer.</li>
-  <li>⚙️ Back-end developer.</li>
-  <li>📚 Physical Science student.</li>
+  <li>⚙️ Fullstack developer.</li>
+  <li>📚 Physical Science Student.</li>
   <li>⌨️ Look at my projects in - https://methupa.vercel.app</li>
 </ul>
 
