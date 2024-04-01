@@ -12,7 +12,7 @@
 <ul>
   <li>⚙️ Fullstack developer.</li>
   <li>📚 Physical Science Student.</li>
-  <li>⌨️ Look at my projects in - https://methupa.vercel.app</li>
+  <li>⌨️ Look at my projects in - <a href="https://methupa.vercel.app" target="_blank">https://methupa.vercel.app</a></li>
 </ul>
 
 <h3>📬 How to reach me.</h3>
