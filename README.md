@@ -12,6 +12,7 @@
 <ul>
   <li>⚙️ Fullstack developer.</li>
   <li>📚 Physical Science Student.</li>
+  <li>🐱 Cat lover.</li>
   <li>⌨️ Look at my projects in - https://methupa.vercel.app</li>
 </ul>
 
