@@ -37,8 +37,28 @@
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/1f9824bf-fee0-4da4-b63a-d0e29ffa9199" alt="CSS Icon" width="50" />
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/3b094f96-549e-4345-a231-fb82328e7e68" alt="MongoDB Icon" width="50" />
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/cee36cbf-655c-4d5d-952f-f0ee93b28669" alt="JavaScript Icon" width="50" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/3b098beb-03e7-4925-807d-e385770be9ac" alt="Node.js Icon" width="50" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/30cb1f62-a6da-4c0a-9e12-5c78bec48a33" alt="Next.js Icon" width="50" />
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/47b948c8-8446-42ca-af9c-0ad83f6ed88d" alt="React Icon" width="50" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/205cd49d-b61f-4a6b-8dd0-3a09f877eb86" alt="Tailwind CSS Icon" width="50" />
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/a5500617-ea02-40a2-bb18-389b268aecc1" alt="Bootstrap Icon" width="50" />
 </a>
 
 <a href="https://www.python.org/" target="_blank">
@@ -49,28 +69,16 @@
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/79a70d52-ae9d-408d-8e1e-8f948f0ed7e5" alt="Flask Icon" width="60" />
 </a>
 
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/3b098beb-03e7-4925-807d-e385770be9ac" alt="Node.js Icon" width="50" />
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/cd525554-55e7-47a6-aefc-b6158f06d8a3" alt="PHP Icon" width="50" />
 </a>
 
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/cee36cbf-655c-4d5d-952f-f0ee93b28669" alt="JavaScript Icon" width="50" />
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/20078eb4-9d47-43fa-8047-aa7acbe7450a" alt="MySQL Icon" width="70" />
 </a>
 
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/205cd49d-b61f-4a6b-8dd0-3a09f877eb86" alt="Tailwind CSS Icon" width="50" />
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/47b948c8-8446-42ca-af9c-0ad83f6ed88d" alt="React Icon" width="50" />
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/30cb1f62-a6da-4c0a-9e12-5c78bec48a33" alt="Next.js Icon" width="50" />
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/a5500617-ea02-40a2-bb18-389b268aecc1" alt="Bootstrap Icon" width="50" />
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/3b094f96-549e-4345-a231-fb82328e7e68" alt="MongoDB Icon" width="50" />
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
