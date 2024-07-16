@@ -42,6 +42,10 @@
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/cee36cbf-655c-4d5d-952f-f0ee93b28669" alt="JavaScript Icon" width="50" />
 </a>
 
+<a href="https://www.typescript.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/7d2bc931-2177-486f-8a84-30e75235fd4d" alt="TypeScript Icon" width="50" />
+</a>
+
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/3b098beb-03e7-4925-807d-e385770be9ac" alt="Node.js Icon" width="50" />
 </a>
