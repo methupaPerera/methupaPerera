@@ -1,5 +1,9 @@
-<h1 align="center">Hello, I'm Methupa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<p align="center">Making things Interesting !</p>
+<h1 align="center">Hello, I'm Methupa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h3 align="center">Making things Interesting. 🍃</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1645a288-93d7-4c84-ab9b-bada9191dc88" alt="methupaperera" width="70" />
+</p>
 
 <div align="center">
   
@@ -10,26 +14,32 @@
 [![Check out my Repositories](https://img.shields.io/badge/See%20All%20Repos-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/methupaPerera?tab=repositories)
 
 <ul>
-  <li>⚙️ Fullstack developer.</li>
-  <li>📚 Physical Science Student.</li>
-  <li>🐱 Cat lover.</li>
-  <li>⌨️ Look at my projects in - https://methupa.vercel.app</li>
+  <li>⚙️ Who am I? A full-stack developer.</li>
+  <li>✨ What am I interested in? Technology, music & nature. ⛰️</li>
+  <li>🐱 What do I love? Cats!</li>
+  <li>⌨️ Explore my projects <a href="https://methupa.vercel.app">here</a>.</li>
+  <li>⚡ Fun fact: I can turn anything into a joke.</li>
 </ul>
 
 <h3>📬 How to reach me.</h3>
+
 <a href="https://t.me/methupaPerera" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="methupapera" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="methupaperera" width="30" />
 </a>
 <a href="https://web.facebook.com/methupaB" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facebook_Logo_2023.png/480px-Facebook_Logo_2023.png" alt="methupapera" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facebook_Logo_2023.png/480px-Facebook_Logo_2023.png" alt="methupaperera" width="30" />
 </a>
 <a href="https://www.instagram.com/_methupa" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="methupapera" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="methupaperera" width="30" />
+</a>
+<a href="https://www.linkedin.com/in/methupaperera" target="blank">
+    <img src="https://github.com/user-attachments/assets/c376a783-1cbb-4d2f-8bdc-b93a65e1d7e1" alt="methupaperera" width="30" />
 </a>
 
 <br>
 
 <h3>🛠 Languages & Tools</h3>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/7c06ebd2-73de-4247-a9fd-cb8ee6abdbb7" alt="HTML Icon" width="50" />
 </a>
@@ -100,12 +110,9 @@
 
 <br><br>
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methupaPerera&layout=donut&theme=radical)
-
-[![Methupa's GitHub stats](https://github-readme-stats.vercel.app/api?username=methupaPerera&hide=prs,contribs&show_icons=true&theme=radical)](https://github.com/methupaPerera/github-readme-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methupaPerera&langs_count=3&theme=transparent" alt="Methupa's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=methupaPerera&show_icons=true&theme=transparent" alt="Methupa's GitHub stats">
+</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
