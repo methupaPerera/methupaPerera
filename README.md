@@ -29,7 +29,7 @@
 <a href="https://web.facebook.com/methupaB" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facebook_Logo_2023.png/480px-Facebook_Logo_2023.png" alt="methupaperera" width="30" />
 </a>
-<a href="https://www.instagram.com/_methupa" target="blank">
+<a href="https://www.instagram.com/methupa.perera" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="methupaperera" width="30" />
 </a>
 <a href="https://www.linkedin.com/in/methupaperera" target="blank">
