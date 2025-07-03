@@ -22,20 +22,17 @@
 </ul>
 
 <h3>📬 How to reach me.</h3>
-
-<a href="https://t.me/methupaPerera" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="methupaperera" width="30" />
-</a>
-<a href="https://web.facebook.com/methupaB" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facebook_Logo_2023.png/480px-Facebook_Logo_2023.png" alt="methupaperera" width="30" />
-</a>
-<a href="https://www.instagram.com/methupa.perera" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="methupaperera" width="30" />
-</a>
 <a href="https://www.linkedin.com/in/methupaperera" target="blank">
     <img src="https://github.com/user-attachments/assets/c376a783-1cbb-4d2f-8bdc-b93a65e1d7e1" alt="methupaperera" width="30" />
 </a>
 
+<a href="https://www.instagram.com/methupa.perera" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="methupaperera" width="30" />
+</a>
+
+<a href="https://web.facebook.com/methupaB" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facebook_Logo_2023.png/480px-Facebook_Logo_2023.png" alt="methupaperera" width="30" />
+</a>
 <br>
 
 <h3>🛠 Languages & Tools</h3>
