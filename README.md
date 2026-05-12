@@ -1,109 +1,93 @@
-<h1 align="center">Hello, I'm Methupa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">Progress Over Perfection. Always...🍃</h3>
+<h1 align="center">
+  Hello, I'm Methupa! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="Waving Hand" />
+</h1>
+
+<h3 align="center">Progress Over Perfection. Always... 🍃</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1645a288-93d7-4c84-ab9b-bada9191dc88" alt="methupaperera" width="70" />
+  <img src="https://github.com/user-attachments/assets/1645a288-93d7-4c84-ab9b-bada9191dc88" alt="Methupa Perera" width="110" style="border-radius: 50%;" />
 </p>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=methupaPerera&color=blue)
+<p align="center">
+  <a href="https://github.com/methupaPerera">
+    <img src="https://komarev.com/ghpvc/?username=methupaPerera&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/methupaPerera?tab=followers">
+    <img src="https://img.shields.io/github/followers/methupaPerera?label=Followers&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/methupaPerera?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://geekystory.com/work">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-GeekyStory-0A66C2?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:methupaperera48@gmail.com">
+    <img src="https://img.shields.io/badge/📬%20Email-Contact%20Me-EA4335?style=for-the-badge" alt="Email" />
+  </a>
+</p>
 
-[![Check out my Repositories](https://img.shields.io/badge/See%20All%20Repos-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/methupaPerera?tab=repositories)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Freelance-00C896?style=for-the-badge" />
+</p>
 
-<ul>
-  <li>⚙️ Who am I? A full-stack developer.</li>
-  <li>✨ What am I interested in? Technology, Fitness, Music & Nature. ⛰️</li>
-  <li>🐱 What do I love? Cats!</li>
-  <li>⌨️ Explore my projects <a href="https://geekystory.com/work">here</a>.</li>
-</ul>
+## 🧑‍💻 About Me
 
-<h3>📬 How to reach me.</h3>
-<a href="https://www.linkedin.com/in/methupaperera" target="blank">
-    <img src="https://github.com/user-attachments/assets/c376a783-1cbb-4d2f-8bdc-b93a65e1d7e1" alt="methupaperera" width="30" />
-</a>
+```typescript
+const methupa = {
+    role: "Full Stack Developer",
+    passions: ["Technology", "Fitness", "Music", "Nature"],
+    instrument: "Bass Guitar 🎸",
+    favoriteAnimal: "Cats 🐱",
+    motto: "Progress Over Perfection",
+};
+```
 
-<a href="https://www.instagram.com/methupa.perera" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="methupaperera" width="30" />
-</a>
+## 🚀 Current Focus
 
-<a href="https://web.facebook.com/methupaB" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facebook_Logo_2023.png/480px-Facebook_Logo_2023.png" alt="methupaperera" width="30" />
-</a>
-<br>
+- 🏗 Building scalable full stack applications with Next.js, Express.js, and TypeScript.
+- ☁️ Learning DevOps and Cloud Computing.
+- 📚 Exploring system design and software architecture.
+- 🎯 Open to internships and freelance opportunities.
 
-<h3>🛠 Languages & Tools</h3>
+## 🌐 Connect With Me
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/7c06ebd2-73de-4247-a9fd-cb8ee6abdbb7" alt="HTML Icon" width="50" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/methupaperera" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/methupa.perera" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+</p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/1f9824bf-fee0-4da4-b63a-d0e29ffa9199" alt="CSS Icon" width="50" />
-</a>
+## 🛠️ Languages & Tools
 
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/cee36cbf-655c-4d5d-952f-f0ee93b28669" alt="JavaScript Icon" width="50" />
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nextjs,react,tailwind,bootstrap,python,flask,django,php,mysql,mongodb,git,postman,photoshop&perline=6" />
+</p>
 
-<a href="https://www.typescript.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/7d2bc931-2177-486f-8a84-30e75235fd4d" alt="TypeScript Icon" width="50" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=methupaPerera&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/3b098beb-03e7-4925-807d-e385770be9ac" alt="Node.js Icon" width="50" />
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=methupaPerera&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/30cb1f62-a6da-4c0a-9e12-5c78bec48a33" alt="Next.js Icon" width="50" />
-</a>
+<p align="center">
+  <a href="https://geekystory.com/work">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-GeekyStory-00C896?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/47b948c8-8446-42ca-af9c-0ad83f6ed88d" alt="React Icon" width="50" />
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/methupaPerera/methupaPerera/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
 
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/205cd49d-b61f-4a6b-8dd0-3a09f877eb86" alt="Tailwind CSS Icon" width="50" />
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/a5500617-ea02-40a2-bb18-389b268aecc1" alt="Bootstrap Icon" width="50" />
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/5a573fcd-7f7d-453c-8b10-bfb8d3c6647d" alt="Python Icon" width="50" />
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/79a70d52-ae9d-408d-8e1e-8f948f0ed7e5" alt="Flask Icon" width="60" />
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/cd525554-55e7-47a6-aefc-b6158f06d8a3" alt="PHP Icon" width="50" />
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/20078eb4-9d47-43fa-8047-aa7acbe7450a" alt="MySQL Icon" width="70" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/3b094f96-549e-4345-a231-fb82328e7e68" alt="MongoDB Icon" width="50" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/5b53e899-0d12-42b6-a9e9-8d7d58e700bd" alt="Git Icon" width="50" />
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/78c88ee5-6373-4b63-950f-8a2149ac75ea" alt="Photoshop Icon" width="50" />
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://github.com/methupaPerera/methupaPerera/assets/108886352/12698393-3c27-4d8a-8da2-4f0a36c1a7de" alt="Postman Icon" width="50" />
-</a>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c896&height=120&section=footer" />
+</p>
