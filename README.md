@@ -85,9 +85,5 @@ const methupa = {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/methupaPerera/methupaPerera/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c896&height=120&section=footer" />
 </p>
