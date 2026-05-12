@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Methupa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">Making things Interesting. 🍃</h3>
+<h3 align="center">Progress Over Perfection. Always...🍃</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1645a288-93d7-4c84-ab9b-bada9191dc88" alt="methupaperera" width="70" />
@@ -15,10 +15,9 @@
 
 <ul>
   <li>⚙️ Who am I? A full-stack developer.</li>
-  <li>✨ What am I interested in? Technology, music & nature. ⛰️</li>
+  <li>✨ What am I interested in? Technology, Fitness, Music & Nature. ⛰️</li>
   <li>🐱 What do I love? Cats!</li>
-  <li>⌨️ Explore my projects <a href="https://methupa.vercel.app">here</a>.</li>
-  <li>⚡ Fun fact: I can turn anything into a joke.</li>
+  <li>⌨️ Explore my projects <a href="https://geekystory.com/work">here</a>.</li>
 </ul>
 
 <h3>📬 How to reach me.</h3>
@@ -106,10 +105,5 @@
 </a>
 
 <br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methupaPerera&langs_count=3&theme=transparent" alt="Methupa's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=methupaPerera&show_icons=true&theme=transparent" alt="Methupa's GitHub stats">
-</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
