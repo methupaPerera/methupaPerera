@@ -22,8 +22,8 @@
 </p>
 
 <p align="center">
-  <a href="https://geekystory.com/work">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-GeekyStory-0A66C2?style=for-the-badge" alt="Portfolio" />
+  <a href="https://methupa.vercel.app/work">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-MethupaDev-0A66C2?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:methupaperera48@gmail.com">
     <img src="https://img.shields.io/badge/📬%20Email-Contact%20Me-EA4335?style=for-the-badge" alt="Email" />
@@ -71,16 +71,8 @@ const methupa = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=methupaPerera&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=methupaPerera&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <a href="https://geekystory.com/work">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-GeekyStory-00C896?style=for-the-badge&logoColor=white" />
+  <a href="https://methupa.vercel.app/work">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-MethupaDev-00C896?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
